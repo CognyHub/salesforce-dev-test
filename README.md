@@ -114,3 +114,6 @@ O objetivo da solução é criar um aplicativo no Salesforce para controlar e re
 
 #### Sobre os testes
 1. Cada classe deve estar coberta com ao menos 75% testes unitários e testando cada funcionalidade.
+
+#### Envio
+1. Faça um fork deste repo e ao final submeta um PR para avaliação.
